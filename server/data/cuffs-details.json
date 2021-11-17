@@ -1,0 +1,44 @@
+[
+  {
+    "id": "101",
+    "title": "White Stone Bracelet",
+    "price": "$8.00",
+    "description": "Our White Stone Bracelets are handmade to ensure quality. Will it fit? Yes, the bracelets can be stretched so there's no concern of fitment."
+  },
+  {
+    "id": "102",
+    "title": "Contemporary Marble Cuff",
+    "price": "$12.00",
+    "description": "Designed with tastefulness in mind, our Marble Button Cuff will make an elegant addition to your jewelry collection."
+  },
+  {
+    "id": "103",
+    "title": "Trilayer Adjustable Cuff",
+    "price": "$10.00",
+    "description": "Style at an affordable price. This cuff has a clean, tasteful design, making it a must-have for formal or business casual outfits."
+  },
+  {
+    "id": "104",
+    "title": "Interwoven Bangle",
+    "price": "$10.00",
+    "description": "Our Interwoven Bangle is best suited as an elegant piece for a formal setting."
+  },
+  {
+    "id": "105",
+    "title": "Geometric Bangle",
+    "price": "$7.00",
+    "description": "Our Geometric Bangle is best suited with a business casual outfit."
+  },
+  {
+    "id": "106",
+    "title": "Bohemian Open Cuff",
+    "price": "$13.00",
+    "description": "Our elegant Bohemian Open Cuff is sure to draw attention and compliments. This cuff adjusts to comfortably fit your wrists."
+  },
+  {
+    "id": "107",
+    "title": "Marble Pattern Bangle",
+    "price": "$13.00",
+    "description": "The Marble Pattern Bangle elegantly dresses up your wrists. Suitable for any social setting."
+  }
+]

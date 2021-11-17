@@ -1,0 +1,37 @@
+[
+  {
+    "id": "101",
+    "title": "White Stone Bracelet",
+    "price": "$8.00"
+  },
+  {
+    "id": "102",
+    "title": "Contemporary Marble Cuff",
+    "price": "$12.00"
+  },
+  {
+    "id": "103",
+    "title": "Trilayer Adjustable Cuff",
+    "price": "$10.00"
+  },
+  {
+    "id": "104",
+    "title": "Interwoven Bangle",
+    "price": "$10.00"
+  },
+  {
+    "id": "105",
+    "title": "Geometric Bangle",
+    "price": "$7.00"
+  },
+  {
+    "id": "106",
+    "title": "Bohemian Open Cuff",
+    "price": "$13.00"
+  },
+  {
+    "id": "107",
+    "title": "Marble Pattern Bangle",
+    "price": "$13.00"
+  }
+]

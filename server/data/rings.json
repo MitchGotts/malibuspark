@@ -1,0 +1,42 @@
+[
+  {
+    "id": "101",
+    "title": "Arrow Ring",
+    "price": "$4.00"
+  },
+  {
+    "id": "102",
+    "title": "Double Bar Ring",
+    "price": "$3.00"
+  },
+  {
+    "id": "103",
+    "title": "Unique Wave Ring",
+    "price": "$3.00"
+  },
+  {
+    "id": "104",
+    "title": "Triangle Ring",
+    "price": "$3.00"
+  },
+  {
+    "id": "105",
+    "title": "Mountain Ring",
+    "price": "$3.00"
+  },
+  {
+    "id": "106",
+    "title": "Cherry Blossom Ring",
+    "price": "$4.00"
+  },
+  {
+    "id": "107",
+    "title": "Adjustable Ring Set",
+    "price": "$6.00"
+  },
+  {
+    "id": "108",
+    "title": "Double V Ring",
+    "price": "$4.00"
+  }
+]

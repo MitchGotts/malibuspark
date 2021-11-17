@@ -1,0 +1,49 @@
+/* @import "../../partials/_partial.scss"; */
+
+.topBar {
+  background-color: #b29bbd;
+  margin-top: 65px;
+  height: 55px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.cart__container {
+  margin-right: 150px;
+  display: flex;
+}
+
+.topBar__search {
+  margin-top: 15px;
+}
+
+.topBar__searchInput {
+  border-radius: 3px;
+}
+
+/* .topBar__cart {
+} */
+
+/* .hero {
+  display: flex;
+} */
+
+.hero__txt {
+  margin-right: 30px;
+}
+
+.hero__logo {
+  display: flex;
+  justify-content: center;
+}
+
+.hero__navbar {
+  display: flex;
+  justify-content: center;
+  border-top: 1px solid black;
+}
+
+.hero__logo--pic {
+  width: 225px;
+  justify-content: center;
+}
