@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import "./Header.css";
 // import shopping_cart from "../../assets/icons/shopping-cart.svg";
 import malibu from "../../assets/logos/malibu.png";
