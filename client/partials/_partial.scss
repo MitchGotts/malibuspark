@@ -1,0 +1,141 @@
+@mixin tablet {
+  @media screen and (min-width: 768px) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media screen and (min-width: 1440px) {
+    @content;
+  }
+}
+
+/* VARIABLE COLORS */
+$black: #323232;
+$white: #ffffff;
+$silver: #afafaf;
+$mercury: #e1e1e1;
+$alabaster: #fafafa;
+$purple: #b29bbd;
+$inStock: #004892;
+$inStockDark: #002f5f;
+$brainFlix: #0095ff;
+$brainFlixDark: #0065ad;
+
+/* VARIABLE FONT WEIGHTS */
+$fontReg: 300;
+$fontDemiBold: 500;
+$fontNextBold: 700;
+
+/* MOBILE SIZES */
+$mobileHeadSize: 1.5rem;
+$mobileHeadHeight: 2rem;
+$h2MobileSize: 0.875rem;
+$h2MobileHeight: 1.375rem;
+$h4MobileSizeP: 0.813rem;
+$h4MobileHeightP: 1.125rem;
+$h4MobileSizeLCI: 0.813rem;
+$h4MobileHeightLCI: 1.125rem;
+$h5MobileSize: 0.75rem;
+$h5MobileHeight: 1.25rem;
+
+/* DESKTOP/TABLET SIZES */
+$heroHeadSize: 3.75rem;
+$heroHeadHeight: 4.25rem;
+$h1Size: 2.25rem;
+$h1Height: 2.75rem;
+$h2Size: 1.5rem;
+$h2Height: 2rem;
+$h3Size: 1rem;
+$h3Height: 1.5rem;
+$h4SizeP: 0.875rem;
+$h4HeightP: 1.375rem;
+$h4SizeLCI: 0.875rem;
+$h4HeightLCI: 1.25rem;
+$h5Size: 0.75rem;
+$h5Height: 1.25rem;
+
+@mixin flexCenter {
+  display: flex;
+  justify-content: center;
+}
+
+@mixin flexColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+@mixin flexWrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@mixin flexAlignC {
+  display: flex;
+  align-items: center;
+}
+
+@mixin flexStart {
+  display: flex;
+  justify-content: flex-start;
+}
+
+@mixin deskHeroHead {
+  font-size: $heroHeadSize;
+  line-height: $heroHeadHeight;
+}
+
+@mixin deskH1 {
+  font-size: $h1Size;
+  line-height: $h1Height;
+}
+
+@mixin deskH2 {
+  font-size: $h2Size;
+  line-height: $h2Height;
+}
+
+@mixin deskH3 {
+  font-size: $h3Size;
+  line-height: $h3Height;
+}
+
+@mixin deskH4P {
+  font-size: $h4SizeP;
+  line-height: $h4HeightP;
+}
+
+@mixin deskH4LCI {
+  font-size: $h4SizeLCI;
+  line-height: $h4HeightLCI;
+}
+
+@mixin deskH5 {
+  font-size: $h5Size;
+  line-height: $h5Height;
+}
+
+@mixin mobileHead {
+  font-size: $mobileHeadSize;
+  line-height: $mobileHeadHeight;
+}
+
+@mixin mobileH2 {
+  font-size: $h2MobileSize;
+  line-height: $h2MobileHeight;
+}
+
+@mixin mobileH4P {
+  font-size: $h4MobileSizeP;
+  line-height: $h4MobileHeightP;
+}
+
+@mixin mobileH4LCI {
+  font-size: $h4MobileSizeLCI;
+  line-height: $h4MobileHeightLCI;
+}
+
+@mixin mobileH5 {
+  font-size: $h5MobileSize;
+  line-height: $h5MobileHeight;
+}

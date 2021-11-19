@@ -1,5 +1,5 @@
 import React from "react";
-import "./Landing.css";
+import "./Landing.scss";
 import cuff from "../../assets/pictures/products/cuffs/MarblePattern1.jpeg";
 
 const Landing = () => {
