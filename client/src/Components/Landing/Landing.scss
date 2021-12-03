@@ -1,1 +1,17 @@
+@import "../../../partials/_partial.scss";
 
+.landing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.landing__txt {
+  font-size: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.landing__img1 {
+  width: 100%;
+}

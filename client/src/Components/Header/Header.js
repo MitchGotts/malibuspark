@@ -9,6 +9,13 @@ const Header = () => {
     <>
       <div className="topBar">
         <div className="cart__container">
+          <div className="topBar__search">
+            <input
+              className="topBar__searchInput"
+              type="text"
+              placeholder="Search"
+            ></input>
+          </div>
           <div className="topBar__cart">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -26,13 +33,6 @@ const Header = () => {
               <path d="M2.5 2.5h3l2.7 12.4a2 2 0 0 0 2 1.6h7.7a2 2 0 0 0 2-1.6l1.6-8.4H7.1" />
             </svg>
             Cart
-          </div>
-          <div className="topBar__search">
-            <input
-              className="topBar__searchInput"
-              type="text"
-              placeholder="Search"
-            ></input>
           </div>
         </div>
       </div>
