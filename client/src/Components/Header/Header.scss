@@ -2,7 +2,6 @@
 
 .topBar {
   background-color: #b29bbd;
-  margin-top: 65px;
   height: 55px;
   // display: flex;
   // justify-content: flex-end;
@@ -60,7 +59,10 @@
 .hero__navbar {
   display: flex;
   justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
   border-top: 1px solid black;
+  border-bottom: 1px solid black;
   padding-left: 20px;
   @include tablet {
     padding-top: 10px;

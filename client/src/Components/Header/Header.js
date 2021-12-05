@@ -9,13 +9,13 @@ const Header = () => {
     <>
       <div className="topBar">
         <div className="cart__container">
-          <div className="topBar__search">
+          {/* <div className="topBar__search">
             <input
               className="topBar__searchInput"
               type="text"
               placeholder="Search"
             ></input>
-          </div>
+          </div> */}
           <div className="topBar__cart">
             <svg
               xmlns="http://www.w3.org/2000/svg"
